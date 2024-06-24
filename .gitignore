@@ -1,0 +1,6 @@
+message-queue-service/.env
+message-queue-service/node_modules
+music-data-service/.env
+music-data-service/node_modules
+user-service/.env
+user-service/node_modules
